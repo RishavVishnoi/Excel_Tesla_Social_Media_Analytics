@@ -77,5 +77,3 @@ This project analyzes Tesla’s social media presence and campaign performance o
 ---
 
 
-
-*For questions, feedback, or collaboration, create an Issue or Pull Request! This project demonstrates advanced, scalable analytics for social media teams—ideal for marketers and data analysts.*
